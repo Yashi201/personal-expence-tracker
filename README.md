@@ -1,4 +1,4 @@
-﻿# personal MERN Expense Tracker
+﻿# Personal MERN Expense Tracker
 
 An expense tracking application with data visualization - developed using React, Node, Express, MongoDB and Victory. 
 
